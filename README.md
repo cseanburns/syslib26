@@ -39,3 +39,7 @@ I can type more here.
 And more here.
 
 A new paragraph starts here.
+
+## Added New Section
+
+This is a new section.
